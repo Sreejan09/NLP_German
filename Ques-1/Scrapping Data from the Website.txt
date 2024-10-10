@@ -1,0 +1,69 @@
+Scrapping Data from the Website
+
+Diya:
+1.	https://www.heise.de/
+2.	https://www.allmystery.de/ 
+3.	https://www.nachrichtenleicht.de/ 
+4.	https://www.tagesschau.de/ 
+5.	https://www.faz.net/aktuell/ 
+6.	https://www.focus.de/ 
+7.	https://www.thisisjanewayne.com
+8.	https://www.journelles.de
+9.	http://www.stern.de/ 
+10.	https://www.gala.de/
+11.	 https://www.vice.com/de/ 
+12.	https://www.dw.com/de/ 
+
+
+
+Gautham:
+1.	https://de.wikipedia.org/wiki/Wikipedia:Hauptseite (German wikipedia)
+2.	https://www.gutenberg.org/browse/languages/de 
+ 
+Shivansh
+https://www.zeit.de/index
+https://www.fr.de/
+
+Chetana:-
+	1) https://netzpolitik.org
+	2) https://vowe.net
+	3) https://www.masha-sedgwick.com
+	4) https://www.pcwelt.de/
+	5) https://www.emma.de/
+	6) https://internationalepolitik.de/de
+	7) https://www.bravo.de
+	8) https://www.cicero.de/
+	9) https://www.bunte.de/
+	10)  https://www.profil.at,
+11)https://www.elle.de/
+12) https://www.wiwo.de
+13) https://www.capital.de/
+14) https://www.express.de/
+15) https://www.nzz.ch/
+16) https://www.tagesanzeiger.ch/
+
+
+
+
+
+
+
+Sreejan
+-	https://www.spiegel.de/
+-	https://www.bpb.de
+-	https://www.kochbar.de
+-	https://www.immobilienscout24.de
+-	https://www.meinestadt.de
+-	https://www.sueddeutsche.de/
+-	https://www.deutsche-biographie.de/
+-	Kaggle
+-	wortschatz
+
+
+Some one can do these websites:
+1)	https://www.thisisjanewayne.com(Currently scrapping)
+2)	  https://www.journelles.de(Currently scrapping)
+3)	  https://www.vip.de/  (currently  scrapping)
+4)	 https://www.fr.de/ (i shivansh will do it, if anyone already started tell me quick)
+
+
